@@ -25,4 +25,4 @@
 : 본 강의는 현재 글로벌 기업들이 빅데이터를 사용하여 어떠한 방식으로 경영전략을 수립하고 있는지에 대해서 알아본다. 특히, 글로벌 기업들이 지금까지 그들이 해왔던 방식이 아닌 4차 산업혁명 시대에 인공지능을 이용하여 어떻게 생존하고 있고, 그들은 어떻게 변화하는지에 대해서 같이 생각해 보는 시간을 갖는다.
 
 ### <수료증><br>
-<img src="https://user-images.githubusercontent.com/62232217/148659270-2f8823f0-d553-4be5-a4a0-8f932667a558.jpg"  width="480" height="700"/>
+<img src="https://user-images.githubusercontent.com/62232217/148659411-6e003f87-ac9f-40d1-8a2b-3e4f6b3fee50.jpg"  width="550" height="700"/>
